@@ -1,0 +1,18 @@
+{
+  "name": "mealwise-backend",
+  "version": "1.0.0",
+  "description": "MealWise Node.js Backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^2.2.1",
+    "cors": "^2.8.5",
+    "express": "^5.2.1",
+    "mysql2": "^3.16.0"
+  }
+}
